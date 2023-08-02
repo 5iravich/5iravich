@@ -1,3 +1,15 @@
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chohae">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCpoX2AeabYVtDq6B_37t7Kw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://open.spotify.com/artist/6D6Fta4pYWGYGN0rDcG3dv">
+    <img src="https://img.shields.io/badge/Spotify-blackgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siravich Supaveerasathein
 =================================================================================================================================================
 
