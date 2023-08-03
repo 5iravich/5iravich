@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/Spotify-blackgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <br><a href="https://www.github.com/5iravich" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/5iravich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siravich Supaveerasathein
 =================================================================================================================================================
@@ -23,8 +27,7 @@ I've been learning to code for 4 years.
 * ✉️  You can contact me at [siravich.su@gmail.com](mailto:siravich.su@gmail.com)
 * 🧠  I'm learning HTML, PHP, CSS, JavaScript, C#, C++, Python
 
-<a href="https://www.github.com/5iravich" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/5iravich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ---
 
