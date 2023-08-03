@@ -14,6 +14,7 @@
   src="https://img.shields.io/github/followers/5iravich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siravich Supaveerasathein
 =================================================================================================================================================
 
@@ -62,7 +63,7 @@ I've been learning to code for 4 years.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=5iravich&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/5iravich"><img src="https://github-readme-stats.vercel.app/api?username=5iravich&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="5iravich's GitHub stats" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=5iravich&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iravich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
