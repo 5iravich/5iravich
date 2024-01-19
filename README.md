@@ -68,5 +68,5 @@ I've been learning to code for 4 years.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iravich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Support Me
-
+<a href="https://tipme.in.th/chohae2ooa"><img src="https://static.tipme.in.th/img/logo.f8267020b29b.svg" width="200" /></a>
 <a href="https://www.buymeacoffee.com/ChoHae"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
