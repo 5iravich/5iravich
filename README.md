@@ -1,73 +1,263 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chohae">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCpoX2AeabYVtDq6B_37t7Kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://open.spotify.com/artist/6D6Fta4pYWGYGN0rDcG3dv">
-    <img src="https://img.shields.io/badge/Spotify-blackgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
+<!-- ===================== HERO ===================== -->
+
+<div align="center">
+
+# 👋 Hey, I'm **Siravich Supaveerasathein**
+
+### `CHO HAE` · Developer · Creator · 3D Artist · Music Producer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BBCB2E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+with+code+%F0%9F%92%BB;I+create+3D+%F0%9F%8E%A8;I+edit+videos+%F0%9F%8E%AC;I+make+music+%F0%9F%8E%B5;Always+learning%2C+always+creating+%E2%9C%A8" />
+
+<br/>
+
+<a href="https://www.youtube.com/c/@CHOHAE">
+<img src="https://img.shields.io/badge/YouTube-CHO_HAE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://open.spotify.com/artist/6D6Fta4pYWGYGN0rDcG3dv">
+<img src="https://img.shields.io/badge/Spotify-Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chohae">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.github.com/5iravich">
+<img src="https://img.shields.io/github/followers/5iravich?style=for-the-badge&logo=github&label=Followers&color=BBCB2E&labelColor=1c1917"/>
+</a>
+
 </div>
-<div id="badges" align="center">
-  <br><a href="https://www.github.com/5iravich" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/github/followers/5iravich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</div>
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siravich Supaveerasathein
-=================================================================================================================================================
-
-Student
--------
-
-I've been learning to code for 4 years.
-
-* 🌍  I'm based in Nonthaburi, Thailand
-* 🖥️  See my portfolio at [Linktree](http://linktr.ee/chohae)
-* ✉️  You can contact me at [siravich.su@gmail.com](mailto:siravich.su@gmail.com)
-* 🧠  I'm learning HTML, PHP, CSS, JavaScript, C#, C++, Python
-
-
 
 ---
 
-### Skills
+<!-- ===================== ABOUT ===================== -->
 
+## 🧑‍💻 About Me
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+```js
+const chohae = {
+    name: "Siravich Supaveerasathein",
+    nickname: "Cho",
+    alias: "CHO HAE",
+
+    roles: [
+        "Developer",
+        "3D Artist",
+        "Video Editor",
+        "Animator",
+        "Content Creator",
+        "Music Creator"
+    ],
+
+    currentlyLearning: [
+        "React",
+        "JavaScript",
+        "Python",
+        "C#",
+        "C++"
+    ],
+
+    basedIn: "Thailand 🇹🇭",
+
+    philosophy: "Learn → Create → Improve → Repeat 🚀"
+};
+```
+
+> 💡 **I don't just write code. I build things, design things, and create things.**
+
+I've been learning and creating for **4+ years**, exploring different areas of technology and digital media.
+
+From **web development** and **software projects** to **3D modeling, video editing, animation and music**, I enjoy combining technology with creativity.
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Development
+
+* 🌐 Web Development
+* ⚛️ React / Vite
+* 🎨 Tailwind CSS
+* 🟨 JavaScript
+* 🐍 Python
+* 🔵 C / C++
+* 🟣 C#
+* 🗄️ MySQL
+* 🟢 Node.js
+
+</td>
+
+<td width="50%">
+
+### 🎨 Creative
+
+* 🧊 3D Modeling
+* 🎬 Video Editing
+* ✨ Motion / Animation
+* 🎨 Graphic Design
+* 🎵 Music Production
+* 📺 YouTube Content
+* 🎧 Music / Hip-Hop
+* 🖌️ Digital Design
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,cs" />
+</p>
+
+### ⚛️ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,mysql,bootstrap,git,github" />
+</p>
+
+### 🎨 Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=blender,figma,ps,ae,pr" />
 </p>
 
 ---
 
-### Socials
+# 🚀 Featured Projects
 
-<p align="left"> <a href="https://discord.com/users/318717208475992064" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/RyderAmando" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/5iravich" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sircho.hae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chohae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@CHOHAE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<div align="center">
 
-### Badges
+|        Project        | Description                              |
+| :-------------------: | :--------------------------------------- |
+|  🧑‍💻 **Portfolio**  | Personal portfolio & creative showcase   |
+|  🎵 **Music Release** | Spotify-style music player using YouTube |
+|   🛒 **Merchandise**  | Merchandise management interface         |
+|   📦 **POS System**   | Product & inventory management system    |
+| 🍚 **Sunday Morning** | Porridge shop management system          |
+|   📋 **Lunch Duty**   | Automated lunch-duty scheduling system   |
 
-<b>My GitHub Stats</b>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=5iravich&theme=dark&background=000000)](https://git.io/streak-stats)
+> 🚧 More projects are constantly being built...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=5iravich&show_icons=true&theme=vision-friendly-dark)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iravich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+# 🎵 Music & Creator
 
-### Support Me
-<a href="https://tipme.in.th/chohae2ooa"><img src="https://static.tipme.in.th/img/logo.f8267020b29b.svg" width="200" /></a>
-<a href="https://www.buymeacoffee.com/ChoHae"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div align="center">
+
+<a href="https://open.spotify.com/artist/6D6Fta4pYWGYGN0rDcG3dv">
+<img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/@CHOHAE">
+<img src="https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+🎧 **Music** · 🎤 **Hip-Hop** · 🎹 **R&B** · 🎬 **Content**
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=5iravich&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5iravich&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=5iravich&theme=dark&background=000000&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/5iravich/5iravich/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌐 Find Me
+
+<div align="center">
+
+<a href="https://www.github.com/5iravich">
+<img src="https://img.shields.io/badge/GitHub-5iravich-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chohae">
+<img src="https://img.shields.io/badge/LinkedIn-CHO_HAE-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.youtube.com/c/@CHOHAE">
+<img src="https://img.shields.io/badge/YouTube-CHO_HAE-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.instagram.com/sircho.hae">
+<img src="https://img.shields.io/badge/Instagram-@sircho.hae-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://discord.com/users/318717208475992064">
+<img src="https://img.shields.io/badge/Discord-CHO_HAE-5865F2?style=for-the-badge&logo=discord"/>
+</a>
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+If you like my projects, music or content, you can support me ❤️
+
+<br/><br/>
+
+<a href="https://tipme.in.th/chohae2ooa">
+<img src="https://static.tipme.in.th/img/logo.f8267020b29b.svg" width="180"/>
+</a>
+
+   
+
+<a href="https://www.buymeacoffee.com/ChoHae">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=5iravich&style=for-the-badge&color=BBCB2E&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**`Code. Create. Repeat.`**
+
+⭐ Feel free to explore my repositories!
+
+</div>
